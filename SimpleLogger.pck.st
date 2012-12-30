@@ -1,4 +1,4 @@
-'From Cuis 4.0 of 21 April 2012 [latest update: #1260] on 22 April 2012 at 8:41:41 pm'!
+'From Cuis 4.1 of 12 December 2012 [latest update: #1524] on 30 December 2012 at 7:03:15 pm'!
 'Description Please enter a description for this package '!
 !classDefinition: #G9Logger category: #SimpleLogger!
 Object subclass: #G9Logger
